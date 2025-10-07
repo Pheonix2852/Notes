@@ -22,19 +22,13 @@ A simple web application to create, edit, and delete personal notes. Built with 
 
 1. **Login**: Sign in using your Google account.
 
-2. **Create Notes**: Add a new note with a title and content.## 🛠️ Tech Stack
+2. **Create Notes**: Add a new note with a title and content.
 
 3. **Edit Notes**: Update your notes anytime.
 
-4. **Delete Notes**: Remove notes you no longer need.- **Frontend**: React 18 + TypeScript + Vite
+4. **Delete Notes**: Remove notes you no longer need.
 
-5. **Search**: Instantly filter notes as you type.- **UI Framework**: shadcn/ui + Tailwind CSS
-
-- **Authentication**: Firebase Auth (Google Sign-In)
-
-All your notes are securely stored in the cloud and only visible to you.- **Database**: Cloud Firestore
-
-- **Routing**: React Router DOM
+5. **Search**: Instantly filter notes as you type.
 
 ## Tech Stack
 
@@ -42,6 +36,6 @@ All your notes are securely stored in the cloud and only visible to you.- **Data
 
 - Firebase Authentication & Firestore
 
-- Vite (for fast development)## 🚀 Getting Started
+- Vite (for fast development)
 
 - Tailwind CSS (for styling)
