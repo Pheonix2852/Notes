@@ -2,7 +2,7 @@
 
 A simple web application to create, edit, and delete personal notes. Built with React, TypeScript, and Firebase.A modern, full-featured notes application built with React, TypeScript, Firebase Authentication, and Firestore. Features Google Sign-In, real-time updates, dark mode support, and a clean UI powered by shadcn/ui components.
 
-## Features## ✨ Features
+## ✨ Features
 
 - Sign in with Google
 
@@ -18,7 +18,7 @@ A simple web application to create, edit, and delete personal notes. Built with 
 
 - **⚡ Real-time**: Live updates using Firestore subscriptions
 
-## How It Works- **🎨 Modern UI**: Built with shadcn/ui components and Tailwind CSS
+## Working
 
 1. **Login**: Sign in using your Google account.
 
@@ -36,7 +36,7 @@ All your notes are securely stored in the cloud and only visible to you.- **Data
 
 - **Routing**: React Router DOM
 
-## Tech Stack- **Icons**: Lucide React
+## Tech Stack
 
 - React + TypeScript- **Build Tool**: Vite
 
